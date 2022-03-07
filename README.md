@@ -6,7 +6,7 @@ Use data science methodologies to define and formulate a real-world business pro
 Use your data analysis tools to load a dataset, clean it, and find out interesting insights from it.
 
 Week 2
-Learning Objectives
+<p>Learning Objectives</P>
 Use your data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process.
 
 Week 3
